@@ -36,6 +36,8 @@ sudo x-ui
 <details>
 <summary>Add Client </summary>
 
+![image](https://github.com/user-attachments/assets/108b0571-63bd-4d19-b732-37a756fd5900)
+
 ![image](https://github.com/user-attachments/assets/f947b2fd-7855-48c2-be38-2aed069ac3c1)
 
 </details>
