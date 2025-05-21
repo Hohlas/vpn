@@ -29,6 +29,9 @@ sudo x-ui
   
 ![image](https://github.com/user-attachments/assets/5c275edd-ac2a-4cc2-ae90-f7702cac815c)
 
+![image](https://github.com/user-attachments/assets/92b54a31-9a90-48f5-ba6d-45f2a9a182dd)
+
+
 ![image](https://github.com/user-attachments/assets/1dbaf30e-ad4b-4e54-90bb-ab5ecec9990c)
 
 </details>
