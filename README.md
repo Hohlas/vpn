@@ -68,7 +68,7 @@ sudo apt install /tmp/nekoray.deb
 [](https://github.com/MatsuriDayo/nekoray)  [Microsoft Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 [Маршрутизация](https://blancvpn.online/ru/help/NekoRay-windows-split-tunneling)
 
-настройки / настройки маршрутов / Базовые маршруты
+настройки / настройки маршрутов / Базовые маршруты  
 Напрямую: IP
 ```bash
 geoip:ru
@@ -79,6 +79,9 @@ geoip:private
 http://192.168.8.1
 http://192.168.1.1
 ```
+![image](https://github.com/user-attachments/assets/a2c9ccec-fe69-4953-824a-7e0b668ff3c8) 
+
+![image](https://github.com/user-attachments/assets/08d2754e-90bd-4a30-a8d1-6d604a295308)
 
 
 </details>
