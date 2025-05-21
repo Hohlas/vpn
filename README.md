@@ -1,4 +1,4 @@
-# x-ui
+# x-ui install
 [3X-UI - xRay server with web GUI](https://github.com/MHSanaei/3x-ui)
 
 
@@ -49,8 +49,9 @@ sudo x-ui
 </details>
 
 <details>
-<summary>NekoBox For Ubuntu </summary>
+<summary>NekoBox GUI </summary>
 
+### Ubuntu
 [NekoBox For Ubuntu](https://github.com/MatsuriDayo/nekoray/releases)
 
 ```bash
@@ -60,10 +61,24 @@ sudo apt install /tmp/nekoray.deb
 чтобы использовать впн только на FireFox, ставим галочку “Режим системного прокси”, а в настройкх FireFox:
 127.0.0.1:2081. В настройках яндекса “Не использовать прокси”.
 
+
+
+
+### Windows
+[](https://github.com/MatsuriDayo/nekoray)  [Microsoft Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+[Маршрутизация](https://blancvpn.online/ru/help/NekoRay-windows-split-tunneling)
+
+настройки / настройки маршрутов / Базовые маршруты
+Напрямую: IP
 ```bash
-
+geoip:ru
+geoip:private
 ```
-
+Напрямую: Домен
+```bash
+http://192.168.8.1
+http://192.168.1.1
+```
 
 
 </details>
