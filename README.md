@@ -32,9 +32,18 @@ sudo x-ui
 </details>
 
 <details>
-  
 <summary>Add Client </summary>
 
 ![image](https://github.com/user-attachments/assets/f947b2fd-7855-48c2-be38-2aed069ac3c1)
 
+</details>
+
+---
+
+<details>
+<summary>Add Inbound </summary>
+  
+[NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+
+Настройки / Режим VPN для приложений 
 </details>
