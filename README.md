@@ -1,4 +1,4 @@
-# vpn
+# x-ui
 [3X-UI - xRay server with web GUI](https://github.com/MHSanaei/3x-ui)
 
 
@@ -22,3 +22,17 @@ sudo x-ui
 ```bash
 
 ```
+
+
+<details>
+<summary>Add Inbound </summary>
+![image](https://github.com/user-attachments/assets/1dbaf30e-ad4b-4e54-90bb-ab5ecec9990c)
+
+</details>
+
+<details>
+  
+<summary>Add Client </summary>
+![image](https://github.com/user-attachments/assets/f947b2fd-7855-48c2-be38-2aed069ac3c1)
+
+</details>
