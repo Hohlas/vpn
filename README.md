@@ -41,9 +41,29 @@ sudo x-ui
 ---
 
 <details>
-<summary>Add Inbound </summary>
+<summary>NekoBox For Android </summary>
   
 [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
 Настройки / Режим VPN для приложений 
+</details>
+
+<details>
+<summary>NekoBox For Ubuntu </summary>
+
+[NekoBox For Ubuntu](https://github.com/MatsuriDayo/nekoray/releases)
+
+```bash
+sudo mv ~/nekoray.deb /tmp/
+sudo apt install /tmp/nekoray.deb
+```
+чтобы использовать впн только на FireFox, ставим галочку “Режим системного прокси”, а в настройкх FireFox:
+127.0.0.1:2081. В настройках яндекса “Не использовать прокси”.
+
+```bash
+
+```
+
+
+
 </details>
