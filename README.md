@@ -26,6 +26,7 @@ sudo x-ui
 
 <details>
 <summary>Add Inbound </summary>
+  
 ![image](https://github.com/user-attachments/assets/1dbaf30e-ad4b-4e54-90bb-ab5ecec9990c)
 
 </details>
@@ -33,6 +34,7 @@ sudo x-ui
 <details>
   
 <summary>Add Client </summary>
+
 ![image](https://github.com/user-attachments/assets/f947b2fd-7855-48c2-be38-2aed069ac3c1)
 
 </details>
