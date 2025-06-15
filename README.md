@@ -49,6 +49,9 @@ sudo x-ui
   
 [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
+![image](https://github.com/user-attachments/assets/1c797af4-8b22-4923-a839-10f718aa3ba9)
+![image](https://github.com/user-attachments/assets/8b1f95bb-ea93-46ae-8dec-48766c56a5df)
+
 Настройки / Режим VPN для приложений 
 </details>
 
