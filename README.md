@@ -69,7 +69,9 @@ sudo apt install /tmp/nekoray.deb
 
 
 ### Windows
-[](https://github.com/MatsuriDayo/nekoray)  [Microsoft Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+[necoray client](https://github.com/MatsuriDayo/nekoray) 
+[nekoray-4.0.1-2024-12-12-windows64.zip](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip)
+[Microsoft Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 [Маршрутизация](https://blancvpn.online/ru/help/NekoRay-windows-split-tunneling)
 
 настройки / настройки маршрутов / Базовые маршруты  
@@ -83,6 +85,8 @@ geoip:private
 http://192.168.8.1
 http://192.168.1.1
 ```
+![image](https://github.com/user-attachments/assets/130fa909-21db-44bd-b79c-353f5fda5867) 
+
 ![image](https://github.com/user-attachments/assets/a2c9ccec-fe69-4953-824a-7e0b668ff3c8) 
 
 ![image](https://github.com/user-attachments/assets/08d2754e-90bd-4a30-a8d1-6d604a295308)
