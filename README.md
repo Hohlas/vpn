@@ -45,20 +45,20 @@ sudo x-ui
 ---
 
 <details>
-<summary>NekoBox For Android </summary>
+<summary>NekoBox Android </summary>
   
 [NekoBox For Android](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
 
-![image](https://github.com/user-attachments/assets/1c797af4-8b22-4923-a839-10f718aa3ba9)
+![image](https://github.com/user-attachments/assets/1c797af4-8b22-4923-a839-10f718aa3ba9) 
+
 ![image](https://github.com/user-attachments/assets/8b1f95bb-ea93-46ae-8dec-48766c56a5df)
 
 Настройки / Режим VPN для приложений 
 </details>
 
 <details>
-<summary>NekoBox GUI </summary>
+<summary>NekoBox Ubuntu </summary>
 
-### Ubuntu
 [NekoBox For Ubuntu](https://github.com/MatsuriDayo/nekoray/releases)
 
 ```bash
@@ -67,11 +67,12 @@ sudo apt install /tmp/nekoray.deb
 ```
 чтобы использовать впн только на FireFox, ставим галочку “Режим системного прокси”, а в настройкх FireFox:
 127.0.0.1:2081. В настройках яндекса “Не использовать прокси”.
+</details>
 
 
+<details>
+<summary>NekoBox Windows </summary>
 
-
-### Windows
 [necoray client](https://github.com/MatsuriDayo/nekoray) | 
 [nekoray-4.0.1-2024-12-12-windows64.zip](https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip) | 
 [Microsoft Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe) | 
