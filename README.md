@@ -16,11 +16,11 @@ curl -Ls https://raw.githubusercontent.com/MHSanaei/3x-ui/refs/tags/$TAG/install
 ```
 
 ```bash
-sudo x-ui
+sudo x-ui # Panel Management Script
 ```
 
 ```bash
-
+sudo x-ui settings # current panel settings
 ```
 
 
